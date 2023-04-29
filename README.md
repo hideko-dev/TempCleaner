@@ -1,4 +1,5 @@
-# Temp Deleter 2.0
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/969461028138147891/1101857065586135110/Rounded_20230429_220550.png?width=1439&height=479" align="center" alt="GitHub Readme Stats" />
 
 # Japanese (日本語)
 
