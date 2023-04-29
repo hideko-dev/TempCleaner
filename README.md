@@ -5,8 +5,8 @@
 ### どうやって使うの?
 
 ```console
-1. https://github.com/MakaronChan/TempDeleter/releases から最新のTempDeleterをダウンロードしてください。2
-2. ダウンロードしたTempDeleter.batを実行します。
+1. https://github.com/Hideko-Dev/TempCleaner/releases から最新のTempDeleterをダウンロードしてください。2
+2. ダウンロードした実行ファイル.batを実行します。
 3. 下の選択肢から、番号を入力して、実行してください。推奨は「 1 」です。
 4. これで終わりです。
 ```
@@ -26,8 +26,8 @@
 ### How to use?
 
 ```console
-1. Download the latest TempDeleter from https://github.com/MakaronChan/TempDeleter/releases
-2. Run the downloaded TempDeleter.bat.
+1. Download the latest TempDeleter from https://github.com/Hideko-Dev/TempCleaner/releases
+2. Run the downloaded 実行ファイル.bat.
 3. Please enter a number from the choices below to do so. Recommended is "1".
 4. That's it.
 ```
